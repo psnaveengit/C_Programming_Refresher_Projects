@@ -1,0 +1,8 @@
+GitHub Steps
+
+git status
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin <GIT URL>
+git push origin master
