@@ -4,5 +4,5 @@ git status
 git init
 git add .
 git commit -m "initial commit"
-git remote add origin <GIT URL>
+git remote add origin <GIT URL> //only first time needed
 git push origin master
