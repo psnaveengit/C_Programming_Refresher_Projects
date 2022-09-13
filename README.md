@@ -5,3 +5,7 @@ The "Learn" Folder Consists of 2 Subfolders, one for the online course and the o
 
 Similarly, the Projects folders consists of 2 Subfolders, one for the examples question in the book and the
 other for the project assignment in the online course.
+
+I used VS Code and installed extensions for C/C++ from Microsoft. To ease the running of code I installed 
+"Code Runner" Extension by Jun Han. Ofcourse I already installed MinGW gcc C compiler.
+
