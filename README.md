@@ -9,3 +9,8 @@ other for the project assignment in the online course.
 I used VS Code and installed extensions for C/C++ from Microsoft. To ease the running of code I installed 
 "Code Runner" Extension by Jun Han. Ofcourse I already installed MinGW gcc C compiler.
 
+1. Online Course: C Programming For Beginners - Master the C Language:
+ https://www.udemy.com/course/c-programming-for-beginners-/ 
+ 
+2. Book: The C Programming Language Book:
+https://en.wikipedia.org/wiki/The_C_Programming_Language
