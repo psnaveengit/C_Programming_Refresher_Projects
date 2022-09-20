@@ -14,14 +14,15 @@ by newline
 int main()
 {
     enum company {GOOGLE, FACEBOOK, XEROX, YAHOO, EBAY, MICROSOFT};
+    //      Indexed : 0      1        2      3     4       5
 
     enum company c1 = XEROX;
     enum company c2 = GOOGLE;
     enum company c3 = EBAY;
 
-    printf("%d\n",c1); //Print values normally 
-    printf("%d\n",c2);
-    printf("%d\n",c3);
+    printf("%d\n",c1); //Index number 2
+    printf("%d\n",c2); //Index number 0
+    printf("%d\n",c3); //Index number 4
 
     return 0;
 }
