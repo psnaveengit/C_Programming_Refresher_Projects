@@ -6,8 +6,11 @@ The "Learn" Folder Consists of 2 Subfolders, one for the online course and the o
 Similarly, the Projects folders consists of 2 Subfolders, one for the examples question in the book and the
 other for the project assignment in the online course.
 
-I used VS Code and installed extensions for C/C++ from Microsoft. To ease the running of code I installed 
-"Code Runner" Extension by Jun Han. Ofcourse I already installed MinGW gcc C compiler.
+I used VS Code and installed extensions for C/C++ from Microsoft. 
+To ease the running of code I installed "Code Runner" Extension by Jun Han. Ofcourse I already installed MinGW gcc C compiler.
+To easily run compiled code I installed .exe runner too on VS Code.
+
+NOTE: Delete the .vscode folder once cloned to your local drive to avoid errors in VS Code
 
 1. Online Course: C Programming For Beginners - Master the C Language:
  https://www.udemy.com/course/c-programming-for-beginners-/ 
