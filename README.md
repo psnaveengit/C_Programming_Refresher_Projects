@@ -14,4 +14,5 @@ NOTE: Delete the .vscode folder once cloned to your local drive to avoid errors 
 1. Online Course: C Programming For Beginners - Master the C Language:
  https://www.udemy.com/course/c-programming-for-beginners-/ 
  
-
+Course Complete Certificate
+![C Programming For Beginners - Master the C Language](https://user-images.githubusercontent.com/104820561/192285860-b615e448-b7c5-4d42-8b19-825cc664dbfa.jpg)
